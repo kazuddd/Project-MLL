@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1702370144 source:c:\knowledge\semester 3\struktur data\project_mll\film.cpp
+	"Film.h"
+
+1702370108 c:\knowledge\semester 3\struktur data\project_mll\film.h
+	<iostream>
+
+1702370440 source:c:\knowledge\semester 3\struktur data\project_mll\main.cpp
+	"Film.h"
+
